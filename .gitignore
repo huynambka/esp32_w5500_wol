@@ -1,0 +1,16 @@
+.cache/
+.tools/
+build/
+downloads/
+dumps/
+managed_components/
+sdkconfig
+sdkconfig.old
+vendor/
+*.log
+*.bin
+*.zip
+.env
+.env.*
+main/local_config.h
+wol.ino
